@@ -1,5 +1,5 @@
 # Titanic
-Predict survival on the Titanic
+Decription: Predict survival on the Titanic
 
 This is a Kaggle Competiotion to get familiar with ML basics
 
